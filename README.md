@@ -29,32 +29,19 @@ Left technologies
 You dream it- I build it!
 
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- display the social media buttons in your README -->
-
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
 [1.1]: https://img.icons8.com/cute-clipart/64/000000/twitter.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
+[2.1]: https://img.icons8.com/fluent/48/000000/facebook-new.png (facebook icon with padding)
+[3.1]: https://img.icons8.com/cute-clipart/64/000000/linkedin.png (linkedIn icon with padding)
 
 [1]: https://twitter.com/iamawaisibrar
 [2]: https://www.facebook.com/awais.ibrar/
-[3]: http://www.github.com/carlsednaoui
+[3]: https://www.linkedin.com/in/awais-ibrar-78874a148/
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
 
 
 
