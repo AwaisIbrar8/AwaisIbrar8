@@ -1,11 +1,14 @@
 Hi there 👋
 
 I am a developer, main focus on React Native, React JS and Node js (restful APIs).
+
 touched with
 Javascript | IOS(swift) | Android | MongoDB | AWS
+
 New Intrest
 -- Problem-solving
 -- Algorithm
+
 Rest of work
 Databases
 -- Mongodb
