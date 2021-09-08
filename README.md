@@ -21,7 +21,7 @@ Core Skills
 
 Cloud backend services:
 -- AWS
--- Herok
+-- Heruko
 
 Left technologies
 -- Php (wordpress, laravel, codeignitor)
