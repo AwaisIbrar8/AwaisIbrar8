@@ -15,7 +15,7 @@ Databases
 -- Mysql
 
 Core Skills
--- cross-platform Application development (Android & IOS)
+-- Cross-platform Application development (Android & IOS)
 -- Web development (React Js)
 -- Restful API (Node Js + Express Js + Mongodb)
 
@@ -26,7 +26,7 @@ Cloud backend services:
 Left technologies
 -- Php (wordpress, laravel, codeignitor)
 -- Android
--- java
+-- Java
 -- C/C++
 
 You dream it- I build it!
