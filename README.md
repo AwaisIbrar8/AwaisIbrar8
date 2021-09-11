@@ -1,6 +1,6 @@
 Hi there 👋
 
-I am a developer, main focus on React Native, React JS and Node js (restful APIs).
+I am a developer, main focus on React Native, React JS and Node js (Restful APIs).
 
 touched with
 Javascript | IOS(swift) | Android | MongoDB | AWS
