@@ -24,7 +24,7 @@ Cloud backend services:
 -- Heruko
 
 Left technologies
--- Php (wordpress, laravel, codeignitor)
+-- Php (Wordpress, laravel, codeignitor)
 -- Android
 -- Java
 -- C/C++
