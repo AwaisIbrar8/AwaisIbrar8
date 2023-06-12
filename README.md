@@ -19,7 +19,6 @@
 | Name                                                                                                               | Stars                                                                                                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [semi-circle-progress-bar](https://github.com/AwaisIbrar8/semiCircleProgressBar)                            | [![GitHub Repo stars](https://img.shields.io/github/stars/AwaisIbrar8/semiCircleProgressBar?style=social)](https://github.com/AwaisIbrar8/semiCircleProgressBar)       
-                                   |
-                                                 |                                                  
+                                                                    
 <details>
 <summary>Click for vanity statistics</summary>
