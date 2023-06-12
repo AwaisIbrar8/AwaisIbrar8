@@ -1,50 +1,25 @@
-Hi there 👋
+# Connect with me :speech_balloon:
 
-I am a developer, main focus on React Native, React JS and Node js (Restful APIs).
+<p align="center">
+<a href="https://stackoverflow.com/users/13806097/awais-ibrar"><img src="https://github-readme-stackoverflow.vercel.app/?userID=13806097" /></a>
+</p>
 
-touched with
-Javascript | IOS(swift) | Android | MongoDB | AWS
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/awais-ibrar-78874a148/)[<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">](https://www.youtube.com/channel/UCrnIStPcN1X_FE3dsWRSvKA) [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/iamawais7/) [<img src="https://img.shields.io/badge/Awais%20Ibrar-Email-orange">](mailto:awaisibrar7@gmail.com)
 
-New Intrest
--- Problem-solving
--- Algorithm
+# Languages and Tools 🛠
+  <div display="flex">
+    <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/react/react%20native%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-43853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
+  </div>
 
-Rest of work
-Databases
--- Mongodb
--- Mysql
+# Repositories
 
-Core Skills
--- Cross-platform Application development (Android & IOS)
--- Web development (React Js)
--- Restful API (Node Js + Express Js + Mongodb)
-
-Cloud backend services:
--- AWS
--- Heruko
-
-Left technologies
--- Php (Wordpress, Laravel, codeignitor)
--- Android
--- Java
--- C/C++
-
-You dream it- I build it!
-
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-
-[1.1]: https://img.icons8.com/cute-clipart/64/000000/twitter.png (twitter icon with padding)
-[2.1]: https://img.icons8.com/fluent/48/000000/facebook-new.png (facebook icon with padding)
-[3.1]: https://img.icons8.com/cute-clipart/64/000000/linkedin.png (linkedIn icon with padding)
-
-[4.1]: https://img.icons8.com/cute-clipart/64/000000/instagram-new.png (linkedIn icon with padding)
-
-
-[1]: https://twitter.com/iamawaisibrar
-[2]: https://www.facebook.com/awais.ibrar/
-[3]: https://www.linkedin.com/in/awais-ibrar-78874a148/
-[4]: https://www.instagram.com/iamawais7/
+| Name                                                                                                               | Stars                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [semi-circle-progress-bar](https://github.com/AwaisIbrar8/semiCircleProgressBar)                            | [![GitHub Repo stars](https://img.shields.io/github/stars/AwaisIbrar8/semiCircleProgressBar?style=social)](https://github.com/AwaisIbrar8/semiCircleProgressBar)       
+                                   |
+                                                 |                                                  
+<details>
+<summary>Click for vanity statistics</summary>
