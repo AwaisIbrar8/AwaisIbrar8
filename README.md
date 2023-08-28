@@ -1,5 +1,11 @@
 # Connect with me :speech_balloon:
 
+# Intro
+
+<p>
+  I am a seasoned full-stack developer with a strong focus on React Native and Node.js technologies. With over 5 years of professional experience in React Native, I have successfully conceptualized, developed, and delivered mobile applications that seamlessly bridge user needs with cutting-edge technology. My proficiency in both frontend and backend development allows me to architect comprehensive solutions that prioritize user experience and technical excellence. I thrive in collaborative environments, leveraging my expertise to create efficient, scalable, and visually appealing applications. Currently, I am honing my skills by leading projects that leverage React Native and Node.js to drive innovation and user satisfaction.
+</p>
+
 <p align="center">
 <a href="https://stackoverflow.com/users/13806097/awais-ibrar"><img src="https://github-readme-stackoverflow.vercel.app/?userID=13806097" /></a>
 </p>
