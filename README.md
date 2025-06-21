@@ -41,8 +41,8 @@
 ### 📂 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/awais7/your-project-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=awais7&repo=your-project-1&theme=tokyonight" /></a>
-  <a href="https://github.com/awais7/your-project-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=awais7&repo=your-project-2&theme=tokyonight" /></a>
+  <a href="https://github.com/numandev1/react-native-keys"><img src="https://github-readme-stats.vercel.app/api/pin/?username=awais7&repo=your-project-1&theme=tokyonight" /></a>
+  <a href="https://github.com/numandev1/react-native-compressor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=awais7&repo=your-project-2&theme=tokyonight" /></a>
 </p>
 
 ---
