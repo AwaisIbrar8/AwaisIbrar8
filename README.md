@@ -1,30 +1,80 @@
-# Connect with me :speech_balloon:
+<h1 align="center">Hi 👋, I'm Awais Ibrar</h1>
+<h3 align="center">Mobile App Developer | Full Stack Engineer | Passionate about building high-quality scalable products</h3>
 
-# Intro
+---
 
-<p>
-  I am a seasoned full-stack developer with a strong focus on React Native and Node.js technologies. With over 5 years of professional experience in React Native, I have successfully conceptualized, developed, and delivered mobile applications that seamlessly bridge user needs with cutting-edge technology. My proficiency in both frontend and backend development allows me to architect comprehensive solutions that prioritize user experience and technical excellence. I thrive in collaborative environments, leveraging my expertise to create efficient, scalable, and visually appealing applications. Currently, I am honing my skills by leading projects that leverage React Native and Node.js to drive innovation and user satisfaction.
-</p>
+### 💫 About Me
+
+- 👨‍💻 I'm a professional developer with experience in **React Native**, **Node.js**, and modern **cloud-native tools**.
+- 🚀 I enjoy crafting seamless mobile experiences, optimizing performance, and implementing robust backend services.
+- 🤝 I’m always open to contributing to **open-source** projects and **collaborative product development**.
+- 📫 How to reach me: **awaisibrar7@gmail.com**
+- 🌐 Portfolio: [awais7.netlify.app](https://awais7.netlify.app)
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awaisibrar)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/awais7)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/iamawais7/)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrnIStPcN1X_FE3dsWRSvKA)
+[![Medium](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=white)](https://medium.com/@awais.ibrar7)
+
+---
+
+### 💻 Tech Stack
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-E24329?logo=fastlane&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+
+---
+
+### 📂 Featured Repositories
 
 <p align="center">
-<a href="https://stackoverflow.com/users/13806097/awais-ibrar"><img src="https://github-readme-stackoverflow.vercel.app/?userID=13806097" /></a>
+  <a href="https://github.com/awais7/your-project-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=awais7&repo=your-project-1&theme=tokyonight" /></a>
+  <a href="https://github.com/awais7/your-project-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=awais7&repo=your-project-2&theme=tokyonight" /></a>
 </p>
 
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/awais-ibrar-78874a148/)[<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">](https://www.youtube.com/channel/UCrnIStPcN1X_FE3dsWRSvKA) [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/iamawais7/) [<img src="https://img.shields.io/badge/Awais%20Ibrar-Email-orange">](mailto:awaisibrar7@gmail.com)
+---
 
-# Languages and Tools 🛠
-  <div display="flex">
-    <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/react/react%20native%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white">
-    <img src="https://img.shields.io/badge/Node.js-43853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
-  </div>
+### 📈 Contribution Graph
 
-# Repositories
+[![Awais's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=awais7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-| Name                                                                                                               | Stars                                                                                                                                                                                                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [semi-circle-progress-bar](https://github.com/AwaisIbrar8/semiCircleProgressBar)                            | [![GitHub Repo stars](https://img.shields.io/github/stars/AwaisIbrar8/semiCircleProgressBar?style=social)](https://github.com/AwaisIbrar8/semiCircleProgressBar)       
-                                                                    
-<details>
-<summary>Click for vanity statistics</summary>
+---
+
+### 📊 GitHub Stats
+
+![Awais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=awais7&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awais7&layout=compact&theme=tokyonight)
+
+---
+
+### 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=awais7&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### ✍️ Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### 😂 Random Dev Meme
+
+![Meme](https://random-memer.herokuapp.com/)
+
+---
